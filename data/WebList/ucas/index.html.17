@@ -1,0 +1,388 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="/ucastv/css/ext-all.css" media="screen,print" />
+<link rel="stylesheet" type="text/css" href="/css/ucasColours.css" media="screen,print" />
+<link rel="stylesheet" type="text/css" href="/css/combined.min.css" media="screen,print" />
+<style type="text/css" media="screen"> 
+#leftNavInternal ul li.selected ul.nested li,
+#leftNavInternal ul li.selected ul.nested li.selected,
+#leftNavInternal ul li.selected ul.nested li.selected ul.nested li,
+#leftNavInternal ul li.selected ul.nested li.selected ul.nested li.selected,
+#leftNavInternal ul li.selected ul.nested li.selected ul.nested li.selected ul.nested li,
+#leftNavInternal ul li.selected ul.nested li.selected ul.nested li.selected ul.nested li.selected
+{
+background:url('/images/arrowLinksmall.gif') no-repeat 11px 10px;
+}
+#leaderboard {
+background-image: url('/images/LeaderboardAdBackground.gif');
+} 
+</style>
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-1763403499120487");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleUseIframeRendering();
+</script>
+<title>
+UCAS - R
+</title>
+</head>
+<body style="background-image: url('/images/bground_grad.gif'); background-repeat:repeat-x; background-position:top left;">
+<div id="skip">
+<a href="#skipToMainContent">Skip to main content</a>
+</div>
+<div id="outerwrapper">
+<div id="promos" class="floatRight">
+<script type='text/javascript'>
+GA_googleFillSlotWithSize("ca-pub-1763403499120487", "UCAS_Skyscraper_Students_120x600", 120, 600);
+</script>
+</div>
+<div id="wrapper">
+<div id="logo" class="floatLeft"><a href="/"> <img src="/images/logoThin.gif" alt="at the heart of connecting people to higher education"/></a></div>
+<div id="leaderboard">
+<script type='text/javascript'>
+GA_googleFillSlotWithSize("ca-pub-1763403499120487", "UCAS_Leaderboard_Students_728x90", 728, 90);
+</script>
+</div>
+<div id="mainNav">
+<ul>
+<li class="current"><a href="/students/">Students</a></li>
+<li><a href="/parents/">Parents</a></li> 
+<li><a href="/advisers/">Advisers</a></li> 
+<li><a href="/he_staff/">HE staff</a></li> 
+<li><a href="/about_us/">About us</a></li> 
+</ul>
+</div>
+<div id="tools" class="floatRight">
+<div id="social"><!-- <style type="text/css">#social img {margin-right:0.5em;}*+html #mainNav {width:44em;}*+html #tools {width:39em;}</style> --><a href="http://www.linkedin.com/company/ucas" target="_blank"><img src="/images/linkedin.gif" alt="Linkedin" title="Exchange ideas with us on Linkedin" /></a><a href="https://plus.google.com/s/ucas#117861348435717184168/posts" target="_blank"><img src="/images/googleplus.gif" alt="Google+" title="Connect with us on Google+" /></a><a href="http://www.youtube.com/user/UCASonline" target="_blank"><img src="/images/youtube.gif" alt="YouTube" title="Watch video guides on YouTube" /></a><a href="http://www.facebook.com/ucasonline" target="_blank"><img src="/images/facebook.gif" alt="Facebook" title="See what others are asking on Facebook" /></a><a href="http://twitter.com/UCAS_online" target="_blank"><img src="/images/twitter.gif" alt="Twitter" title="Find answers on Twitter" /></a></div>
+<div id="synthetix">
+<form id="faqform" name="faqform" onsubmit='query_faqtAgent(document.getElementById("fa_autosuggest_input").value);return false' method="get">
+<div id="synthetixSearch">
+<input type='image' alt='Search' src='/images/submit.gif'>
+</div>
+<div id="synthetixInput">
+<input id='fa_autosuggest_input' value="Type your question here..." class='fa_autosuggest_input' type='text' name='fa_autosuggest_input' onblur="if(allow_autosuggest_hide==true) hide_autosuggest()" onkeyup="autosuggest(event)" onclick="value=''"/>
+<div id='fa_autosuggest' class='fa_autosuggest' onmouseout="allow_autosuggest_hide=true;document.getElementById('fa_autosuggest_input').focus();" onmouseover='allow_autosuggest_hide=false'></div>
+</div>
+</form>
+</div>
+</div>
+<div id="strapLine" style="background-image: url('/images/bannerStudentsWide.jpg'); background-position:top left; background-repeat:no-repeat;"></div>
+<div id="leftNavInternal" class="floatLeft">
+<ul>
+<li><a href="/students/wheretostart/">Where to start?</a></li>
+<li class="selected"> <a href="/students/choosingcourses/">Step 1: Choosing courses</a>
+<ul class="nested">
+<li class="selected"> <a href="/students/choosingcourses/choosinguni/">Choosing a university or college</a>
+<ul class="nested">
+<li><a href="/students/choosingcourses/choosinguni/map/">University and college map</a></li>
+<li class="selected"> <a href="/students/choosingcourses/choosinguni/instguide/">List of universities and colleges</a>
+</li>
+<li><a href="/students/choosingcourses/choosinguni/opendays">Open days</a></li>
+</ul>
+</li>
+<li><a href="/students/choosingcourses/choosingcourse/">Choosing a course</a></li>
+<li><a href="/students/choosingcourses/entryrequirements">Entry requirements</a></li>
+<li><a href="/students/choosingcourses/specificsubjects/">Specific subjects</a></li>
+<li><a href="/students/choosingcourses/admissions/">Admissions tests</a></li>
+<li><a href="/students/choosingcourses/faqs/">FAQs</a></li>
+</ul>
+</li>
+<li><a href="/students/applying/">Step 2: Applying</a></li>
+<li><a href="/students/offers/">Step 3: Offers</a></li>
+<li><a href="/students/results/">Step 4: Results</a></li>
+<li><a href="/students/nextsteps/">Step 5: Next steps</a></li>
+<li><a href="/students/startinguni/">Step 6: Starting university or college</a></li>
+<li><a href="/students/ucas_tariff/">UCAS Tariff</a></li>
+<li><a href="/students/ucasterms">UCAS terms explained</a></li>
+<li><a href="/students/studentfinance/">Student finance</a></li>
+<li><a href="/students/events/">Events</a></li>
+<li><a href="/students/news/">News</a></li>
+<li><a href="/students/importantdates">Important dates</a></li>
+<li><a href="/students/studentnumbercontrols">Student number controls</a></li>
+</ul>
+<div id="leftNavInternalBot"><img src="/images/leftNavBotInternalCorner.gif" width="200" height="51" alt="">
+</div>
+</div>
+<div id="breadcrumb">
+<a href="/">Home</a>&nbsp;&gt;&nbsp;<a href="/students/">Students</a>&nbsp;&gt;&nbsp;<a href="/students/choosingcourses/">Step 1: Choosing courses</a>&nbsp;&gt;&nbsp;<a href="/students/choosingcourses/choosinguni/">Choosing a university or college</a>&nbsp;&gt;&nbsp;<a href="/students/choosingcourses/choosinguni/instguide/">List of universities and colleges</a>&nbsp;&gt;&nbsp;R
+</div>
+<div id="mainContentWide">
+<a name="skipToMainContent"></a>
+<h2>List of universities and colleges</h2>
+<img alt="Step 1: Choosing courses" src="/images/inlines/AppJourneyIcon_01.gif" align="right" width="99" height="119">
+<p>Below is a list of universities and colleges in the UCAS scheme and their contact details. Use the alphabet bar to see the universities and colleges beginning with that letter (not including 'The university of').</p>
+<p>Click on 'further details...' to view dates for their open days, accommodation and interview information and the number of students studying different subjects.</p>
+<p>To see where these universities and colleges are located within the UK, use the <a href="/students/choosingcourses/choosinguni/map">map of universities and colleges</a>.</p>
+<div id="glossary">
+<ul>
+<li><a href="/students/choosingcourses/choosinguni/instguide/a/">A</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/b/">B</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/c/">C</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/d/">D</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/e/">E</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/f/">F</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/g/">G</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/h/">H</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/i/">I</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/j/">J</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/k/">K</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/l/">L</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/m/">M</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/n/">N</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/o/">O</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/p/">P</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/q/">Q</a></li>
+<li><span class="on">R</span></li> 
+<li><a href="/students/choosingcourses/choosinguni/instguide/s/">S</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/t/">T</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/u/">U</a></li>
+<li><span>V</span></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/w/">W</a></li>
+<li><span>X</span></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/y/">Y</a></li>
+<li><span>Z</span></li>
+</ul>
+</div>
+<table id="guide">
+<tr><td><h3>R06 - Ravensbourne</h3>6 Penrose Way<br />
+London<br />
+SE10 0EW<br />
+t: 020 3040 3500<br />
+e: <a href="mailto:info@rave.ac.uk">info@rave.ac.uk</a><br />
+w: <a href="http://www.rave.ac.uk" target="_blank">www.rave.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/r/r06">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/r06.gif"></td></tr><tr><td><h3>R12 - The University of Reading</h3>The University of Reading<br />
+PO Box 217<br />
+Reading<br />
+RG6 6AH<br />
+t: 0118 378 8619<br />
+f: 0118 378 8924<br />
+e: <a href="mailto:student.recruitment@reading.ac.uk">student.recruitment@reading.ac.uk</a><br />
+w: <a href="http://www.reading.ac.uk" target="_blank">www.reading.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/r/r12">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/r12.gif"></td></tr><tr><td><h3>R14 - Reaseheath College</h3>Reaseheath College<br />
+Nantwich<br />
+Cheshire<br />
+CW5 6DF<br />
+t: 01270 625131<br />
+f: 01270 625665<br />
+e: <a href="mailto:enquiries@reaseheath.ac.uk">enquiries@reaseheath.ac.uk</a><br />
+w: <a href="http://www.reaseheath.ac.uk" target="_blank">www.reaseheath.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/r/r14">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/r14.gif"></td></tr><tr><td><h3>R18 - Regent's College, London (incorporating Regent's Business School, London)</h3>Inner Circle, Regent's College<br />
+Regent's Park<br />
+London<br />
+NW1 4NS<br />
+t: +44(0)20 7487 7505<br />
+f: +44(0)20 7487 7425<br />
+e: <a href="mailto:exrel@regents.ac.uk">exrel@regents.ac.uk</a><br />
+w: <a href="http://www.regents.ac.uk/" target="_blank">www.regents.ac.uk/</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/r/r18">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/r18.gif"></td></tr><tr><td><h3>R20 - Richmond, The American International University in London</h3>Queens Road<br />
+Richmond<br />
+Surrey<br />
+TW10 6JP<br />
+t: 020 8332 9000<br />
+f: 020 8332 1596<br />
+e: <a href="mailto:enroll@richmond.ac.uk">enroll@richmond.ac.uk</a><br />
+w: <a href="http://www.richmond.ac.uk" target="_blank">www.richmond.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/r/r20">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/r20.gif"></td></tr><tr><td><h3>R21 - Richmond Upon Thames College</h3>Egerton Road<br />
+Twickenham<br />
+Middlesex<br />
+TW2 7SJ<br />
+t: 020 8607 8302<br />
+e: <a href="mailto:fran.hampton@rutc.ac.uk">fran.hampton@rutc.ac.uk</a><br />
+w: <a href="http://www.rutc.ac.uk" target="_blank">www.rutc.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/r/r21">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/r21.gif"></td></tr><tr><td><h3>R36 - Robert Gordon University</h3>Robert Gordon University<br />
+Schoolhill<br />
+Aberdeen<br />
+Scotland<br />
+AB10 1FR<br />
+t: 01224 26 27 28<br />
+f: 01224 26 21 47<br />
+e: <a href="mailto:UGOffice@rgu.ac.uk">UGOffice@rgu.ac.uk</a><br />
+w: <a href="http://www.rgu.ac.uk" target="_blank">www.rgu.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/r/r36">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/r36.gif"></td></tr><tr><td><h3>R48 - Roehampton University</h3>Richardson<br />
+Roehampton Lane<br />
+London<br />
+SW15 5PU<br />
+t: 020 8392 3232<br />
+f: 020 8392 3470<br />
+e: <a href="mailto:enquiries@roehampton.ac.uk">enquiries@roehampton.ac.uk</a><br />
+w: <a href="http://www.roehampton.ac.uk/home/" target="_blank">www.roehampton.ac.uk/home/</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/r/r48">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/r48.gif"></td></tr><tr><td><h3>R51 - Rose Bruford College</h3>Lamorbey Park<br />
+Burnt Oak Lane<br />
+Sidcup<br />
+Kent<br />
+DA15 9DF<br />
+t: 0208 308 2600<br />
+f: 020 8308 0542<br />
+e: <a href="mailto:enquiries@bruford.ac.uk">enquiries@bruford.ac.uk</a><br />
+w: <a href="http://www.bruford.ac.uk" target="_blank">www.bruford.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/r/r51">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/r51.gif"></td></tr><tr><td><h3>R52 - Rotherham College of Arts and Technology</h3>Eastwood Lane<br />
+Rotherham<br />
+South Yorkshire<br />
+S65 1EG<br />
+t: 08080 722777<br />
+f: 01709 373053<br />
+e: <a href="mailto:info@rotherham.ac.uk">info@rotherham.ac.uk</a><br />
+w: <a href="http://www.rotherham.ac.uk" target="_blank">www.rotherham.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/r/r52">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/r52.gif"></td></tr><tr><td><h3>R54 - Royal Agricultural College</h3>Cirencester<br />
+Glos<br />
+GL7 6JS<br />
+t: 01285 889912<br />
+f: 01285 650219<br />
+e: <a href="mailto:admissions@rac.ac.uk">admissions@rac.ac.uk</a><br />
+w: <a href="http://www.rac.ac.uk" target="_blank">www.rac.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/r/r54">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/r54.gif"></td></tr><tr><td><h3>R55 - Royal Academy of Dance</h3>Royal Academy of Dance<br />
+Faculty of Education<br />
+36 Battersea Square<br />
+London<br />
+SW11 3RA<br />
+t: 020 7326 8086/8049<br />
+f: 020 7326 8040<br />
+e: <a href="mailto:faculty@rad.org.uk">faculty@rad.org.uk</a><br />
+w: <a href="http://www.radeducation.org.uk" target="_blank">www.radeducation.org.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/r/r55">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/r55.gif"></td></tr><tr><td><h3>R72 - Royal Holloway, University of London</h3>Royal Holloway, University of London<br />
+Egham<br />
+Surrey<br />
+TW20 0EX<br />
+t: 01784 414944<br />
+f: 01784 473662<br />
+e: <a href="mailto:Admissions@rhul.ac.uk">Admissions@rhul.ac.uk</a><br />
+w: <a href="http://www.rhul.ac.uk" target="_blank">www.rhul.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/r/r72">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/r72.gif"></td></tr><tr><td><h3>R84 - Royal Veterinary College (University of London)</h3>Royal College Street<br />
+London<br />
+England<br />
+NW1 0TU<br />
+t: 020 7468 5147<br />
+f: 020 7468 5311<br />
+e: <a href="mailto:enquiries@rvc.ac.uk">enquiries@rvc.ac.uk</a><br />
+w: <a href="http://www.rvc.ac.uk" target="_blank">www.rvc.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/r/r84">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/r84.gif"></td></tr><tr><td><h3>R86 - Royal Welsh College of Music and Drama (Coleg Brenhinol Cerdd a Drama Cymru)</h3>Castle Grounds<br />
+Cathays Park<br />
+Cardiff<br />
+CF10 3ER<br />
+t: 029 2039 1361<br />
+f: 029 2039 1301<br />
+e: <a href="mailto:admissions@rwcmd.ac.uk">admissions@rwcmd.ac.uk</a><br />
+w: <a href="http://www.rwcmd.ac.uk" target="_blank">www.rwcmd.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/r/r86">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/r86.gif"></td></tr><tr><td><h3>R90 - Ruskin College Oxford</h3>Ruskin Hall<br />
+Dunstan Road<br />
+Old Headington<br />
+Oxford<br />
+OX3 9BZ<br />
+t: 01865 759600<br />
+f: 01865 759640<br />
+e: <a href="mailto:admissions@ruskin.ac.uk">admissions@ruskin.ac.uk</a><br />
+w: <a href="http://www.ruskin.ac.uk" target="_blank">www.ruskin.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/r/r90">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/r90.gif"></td></tr>
+</table>
+</div>
+<div id="footer">
+<ul class="outerFirst">
+<li class="first">Help and advice</li>
+<li>
+<ul>
+<li><a href="/students/wheretostart/maturestudents/">Mature students</a></li>
+<li><a href="/international/">International students</a></li>
+<li><a href="/students/wheretostart/disabledstudents">Students with disabilities</a></li>
+<li><a href="/students/wheretostart/careleavers">Care leavers</a></li>
+<li><a href="/astudioynygymraeg/">Astudio yn y Gymraeg</a></li>
+<li><a href="/students/importantdates">Important dates</a></li>
+<li><a href="/events/">Events</a></li>
+</ul>
+</li>
+</ul>
+<ul class="outer">
+<li class="first">&nbsp;&nbsp;Student services</li>
+<li>
+<ul>
+<li>&nbsp;&nbsp;<a href="/yougo/">Student network</a></li>
+<li>&nbsp;&nbsp;<a href="http://www.ucas.tv/">Video guides</a></li>
+<li>&nbsp;&nbsp;<a href="/ucascard/">Student discount card</a></li>
+<li>&nbsp;&nbsp;<a href="/students/coursesearch/">Search for courses</a></li>
+<li>&nbsp;&nbsp;<a href="/students/apply/">Apply</a></li>
+<li>&nbsp;&nbsp;<a href="/students/track/">Track progress</a></li>
+<li>&nbsp;&nbsp;<a href="http://www.ucasbooks.com" target="_blank">Helpful books</a></li>
+</ul>
+</li>
+</ul>
+<ul class="outer">
+<li class="first">&nbsp;&nbsp;Corporate information</li>
+<li>
+<ul>
+<li>&nbsp;&nbsp;<a href="/about_us/contact_us/">Contact us</a></li>
+<li>&nbsp;&nbsp;<a href="/about_us/whoweare/">Who we are</a></li>
+<li>&nbsp;&nbsp;<a href="/about_us/ucasmedia">Advertising enquiries</a></li>
+<li>&nbsp;&nbsp;<a href="/about_us/media_enquiries/">Media enquiries</a></li>
+<li>&nbsp;&nbsp;<a href="/reviews/admissionsprocessreview/">Admissions Process Review</a></li>
+<li>&nbsp;&nbsp;<a href="/reviews/qireview/">Qualifications Information Review</a></li>
+<li>&nbsp;&nbsp;<a href="/about_us/foi/">Freedom of Information</a></li>
+</ul>
+</li>
+</ul>
+<ul class="outer">
+<li class="first">&nbsp;&nbsp;About this site</li>
+<li>
+<ul>
+<li>&nbsp;&nbsp;<a href="/sitemap">Site map</a></li>
+<li>&nbsp;&nbsp;<a href="/faqmap">FAQ map</a></li>
+<li>&nbsp;&nbsp;<a href="/terms_and_conditions">Terms and conditions</a></li>
+<li>&nbsp;&nbsp;<a href="/privacy_statement">Privacy policy</a></li>
+<li>&nbsp;&nbsp;<a href="/about_us/cookies">Cookies</a></li>
+<li>&nbsp;&nbsp;<a href="/accessibility">Accessibility</a></li>
+<li>&nbsp;&nbsp;<a href="http://mob.ucas.com">Mobile UCAS website</a></li>
+</ul>
+</li>
+</ul>
+<div id="copy"> <span class="floatLeft">&copy; UCAS, Rosehill, New Barn Lane, Cheltenham, Gloucestershire, GL52 3LZ. <a href="/company_registration">Company Registration</a> 2839815</span>
+<div id="search" class="floatRight">
+<form action="http://www.google.com/cse" id="cse-search-box">
+<input type="hidden" name="cx" value="003105448143280729144:gt1lj8lnvbo" />
+<input type="text" name="q" />
+<input type="image" src="/images/goBtnGrey.gif" class="goBtn" align="top" title="Go" alt="Go, start search" />
+</form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type='text/javascript' src='http://www.ucas.com/javascript/synthetix_autosuggest_ucas.js'>
+</script>
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName('script')[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/1721.js";
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("\<script src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'>\<\/script>" ));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4165754-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+</html>

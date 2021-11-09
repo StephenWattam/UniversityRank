@@ -1,0 +1,511 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="/ucastv/css/ext-all.css" media="screen,print" />
+<link rel="stylesheet" type="text/css" href="/css/ucasColours.css" media="screen,print" />
+<link rel="stylesheet" type="text/css" href="/css/combined.min.css" media="screen,print" />
+<style type="text/css" media="screen"> 
+#leftNavInternal ul li.selected ul.nested li,
+#leftNavInternal ul li.selected ul.nested li.selected,
+#leftNavInternal ul li.selected ul.nested li.selected ul.nested li,
+#leftNavInternal ul li.selected ul.nested li.selected ul.nested li.selected,
+#leftNavInternal ul li.selected ul.nested li.selected ul.nested li.selected ul.nested li,
+#leftNavInternal ul li.selected ul.nested li.selected ul.nested li.selected ul.nested li.selected
+{
+background:url('/images/arrowLinksmall.gif') no-repeat 11px 10px;
+}
+#leaderboard {
+background-image: url('/images/LeaderboardAdBackground.gif');
+} 
+</style>
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-1763403499120487");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleUseIframeRendering();
+</script>
+<title>
+UCAS - L
+</title>
+</head>
+<body style="background-image: url('/images/bground_grad.gif'); background-repeat:repeat-x; background-position:top left;">
+<div id="skip">
+<a href="#skipToMainContent">Skip to main content</a>
+</div>
+<div id="outerwrapper">
+<div id="promos" class="floatRight">
+<script type='text/javascript'>
+GA_googleFillSlotWithSize("ca-pub-1763403499120487", "UCAS_Skyscraper_Students_120x600", 120, 600);
+</script>
+</div>
+<div id="wrapper">
+<div id="logo" class="floatLeft"><a href="/"> <img src="/images/logoThin.gif" alt="at the heart of connecting people to higher education"/></a></div>
+<div id="leaderboard">
+<script type='text/javascript'>
+GA_googleFillSlotWithSize("ca-pub-1763403499120487", "UCAS_Leaderboard_Students_728x90", 728, 90);
+</script>
+</div>
+<div id="mainNav">
+<ul>
+<li class="current"><a href="/students/">Students</a></li>
+<li><a href="/parents/">Parents</a></li> 
+<li><a href="/advisers/">Advisers</a></li> 
+<li><a href="/he_staff/">HE staff</a></li> 
+<li><a href="/about_us/">About us</a></li> 
+</ul>
+</div>
+<div id="tools" class="floatRight">
+<div id="social"><!-- <style type="text/css">#social img {margin-right:0.5em;}*+html #mainNav {width:44em;}*+html #tools {width:39em;}</style> --><a href="http://www.linkedin.com/company/ucas" target="_blank"><img src="/images/linkedin.gif" alt="Linkedin" title="Exchange ideas with us on Linkedin" /></a><a href="https://plus.google.com/s/ucas#117861348435717184168/posts" target="_blank"><img src="/images/googleplus.gif" alt="Google+" title="Connect with us on Google+" /></a><a href="http://www.youtube.com/user/UCASonline" target="_blank"><img src="/images/youtube.gif" alt="YouTube" title="Watch video guides on YouTube" /></a><a href="http://www.facebook.com/ucasonline" target="_blank"><img src="/images/facebook.gif" alt="Facebook" title="See what others are asking on Facebook" /></a><a href="http://twitter.com/UCAS_online" target="_blank"><img src="/images/twitter.gif" alt="Twitter" title="Find answers on Twitter" /></a></div>
+<div id="synthetix">
+<form id="faqform" name="faqform" onsubmit='query_faqtAgent(document.getElementById("fa_autosuggest_input").value);return false' method="get">
+<div id="synthetixSearch">
+<input type='image' alt='Search' src='/images/submit.gif'>
+</div>
+<div id="synthetixInput">
+<input id='fa_autosuggest_input' value="Type your question here..." class='fa_autosuggest_input' type='text' name='fa_autosuggest_input' onblur="if(allow_autosuggest_hide==true) hide_autosuggest()" onkeyup="autosuggest(event)" onclick="value=''"/>
+<div id='fa_autosuggest' class='fa_autosuggest' onmouseout="allow_autosuggest_hide=true;document.getElementById('fa_autosuggest_input').focus();" onmouseover='allow_autosuggest_hide=false'></div>
+</div>
+</form>
+</div>
+</div>
+<div id="strapLine" style="background-image: url('/images/bannerStudentsWide.jpg'); background-position:top left; background-repeat:no-repeat;"></div>
+<div id="leftNavInternal" class="floatLeft">
+<ul>
+<li><a href="/students/wheretostart/">Where to start?</a></li>
+<li class="selected"> <a href="/students/choosingcourses/">Step 1: Choosing courses</a>
+<ul class="nested">
+<li class="selected"> <a href="/students/choosingcourses/choosinguni/">Choosing a university or college</a>
+<ul class="nested">
+<li><a href="/students/choosingcourses/choosinguni/map/">University and college map</a></li>
+<li class="selected"> <a href="/students/choosingcourses/choosinguni/instguide/">List of universities and colleges</a>
+</li>
+<li><a href="/students/choosingcourses/choosinguni/opendays">Open days</a></li>
+</ul>
+</li>
+<li><a href="/students/choosingcourses/choosingcourse/">Choosing a course</a></li>
+<li><a href="/students/choosingcourses/entryrequirements">Entry requirements</a></li>
+<li><a href="/students/choosingcourses/specificsubjects/">Specific subjects</a></li>
+<li><a href="/students/choosingcourses/admissions/">Admissions tests</a></li>
+<li><a href="/students/choosingcourses/faqs/">FAQs</a></li>
+</ul>
+</li>
+<li><a href="/students/applying/">Step 2: Applying</a></li>
+<li><a href="/students/offers/">Step 3: Offers</a></li>
+<li><a href="/students/results/">Step 4: Results</a></li>
+<li><a href="/students/nextsteps/">Step 5: Next steps</a></li>
+<li><a href="/students/startinguni/">Step 6: Starting university or college</a></li>
+<li><a href="/students/ucas_tariff/">UCAS Tariff</a></li>
+<li><a href="/students/ucasterms">UCAS terms explained</a></li>
+<li><a href="/students/studentfinance/">Student finance</a></li>
+<li><a href="/students/events/">Events</a></li>
+<li><a href="/students/news/">News</a></li>
+<li><a href="/students/importantdates">Important dates</a></li>
+<li><a href="/students/studentnumbercontrols">Student number controls</a></li>
+</ul>
+<div id="leftNavInternalBot"><img src="/images/leftNavBotInternalCorner.gif" width="200" height="51" alt="">
+</div>
+</div>
+<div id="breadcrumb">
+<a href="/">Home</a>&nbsp;&gt;&nbsp;<a href="/students/">Students</a>&nbsp;&gt;&nbsp;<a href="/students/choosingcourses/">Step 1: Choosing courses</a>&nbsp;&gt;&nbsp;<a href="/students/choosingcourses/choosinguni/">Choosing a university or college</a>&nbsp;&gt;&nbsp;<a href="/students/choosingcourses/choosinguni/instguide/">List of universities and colleges</a>&nbsp;&gt;&nbsp;L
+</div>
+<div id="mainContentWide">
+<a name="skipToMainContent"></a>
+<h2>List of universities and colleges</h2>
+<img alt="Step 1: Choosing courses" src="/images/inlines/AppJourneyIcon_01.gif" align="right" width="99" height="119">
+<p>Below is a list of universities and colleges in the UCAS scheme and their contact details. Use the alphabet bar to see the universities and colleges beginning with that letter (not including 'The university of').</p>
+<p>Click on 'further details...' to view dates for their open days, accommodation and interview information and the number of students studying different subjects.</p>
+<p>To see where these universities and colleges are located within the UK, use the <a href="/students/choosingcourses/choosinguni/map">map of universities and colleges</a>.</p>
+<div id="glossary">
+<ul>
+<li><a href="/students/choosingcourses/choosinguni/instguide/a/">A</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/b/">B</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/c/">C</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/d/">D</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/e/">E</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/f/">F</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/g/">G</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/h/">H</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/i/">I</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/j/">J</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/k/">K</a></li>
+<li><span class="on">L</span></li> 
+<li><a href="/students/choosingcourses/choosinguni/instguide/m/">M</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/n/">N</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/o/">O</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/p/">P</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/q/">Q</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/r/">R</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/s/">S</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/t/">T</a></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/u/">U</a></li>
+<li><span>V</span></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/w/">W</a></li>
+<li><span>X</span></li>
+<li><a href="/students/choosingcourses/choosinguni/instguide/y/">Y</a></li>
+<li><span>Z</span></li>
+</ul>
+</div>
+<table id="guide">
+<tr><td><h3>L05 - Lakes College - West Cumbria</h3>Hallwood Road<br />
+Lillyhall<br />
+Workington<br />
+CA14 4JN<br />
+t: 01946 839300<br />
+f: 01946 839302<br />
+e: <a href="mailto:student.services@lcwc.ac.uk">student.services@lcwc.ac.uk</a><br />
+w: <a href="http://www.lcwc.ac.uk" target="_blank">www.lcwc.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l05">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l05.gif"></td></tr><tr><td><h3>L14 - Lancaster University</h3>University House<br />
+Lancaster University<br />
+Bailrigg<br />
+Lancaster<br />
+LA1 4YW<br />
+t: 01524 592028<br />
+f: 01524 846243<br />
+e: <a href="mailto:ugadmissions@lancaster.ac.uk">ugadmissions@lancaster.ac.uk</a><br />
+w: <a href="http://www.lancs.ac.uk" target="_blank">www.lancs.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l14">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l14.gif"></td></tr><tr><td><h3>L17 - The College of Law</h3>Administration Address: Braboeuf Manor<br />
+Portsmouth Rd.<br />
+Guildford<br />
+GU3 1HA<br />
+t: 01483 216000<br />
+e: <a href="mailto:admissions@lawcol.co.uk">admissions@lawcol.co.uk</a><br />
+w: <a href="http://www.college-of-law.co.uk/degree" target="_blank">www.college-of-law.co.uk/degree</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l17">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l17.gif"></td></tr><tr><td><h3>L21 - Leeds City College</h3>Room 125<br />
+Technology Campus<br />
+Cookridge Street<br />
+Leeds<br />
+LS2 8BL<br />
+t: 0113 216 2406<br />
+e: <a href="mailto:highereducation@leedscitycollege.ac.uk">highereducation@leedscitycollege.ac.uk</a><br />
+w: <a href="http://www.leedscitycollege.ac.uk" target="_blank">www.leedscitycollege.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l21">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l21.gif"></td></tr><tr><td><h3>L23 - University of Leeds</h3>The University of Leeds<br />
+Woodhouse Lane<br />
+Leeds<br />
+LS2 9JT<br />
+t: 0113 343 3999<br />
+e: <a href="mailto:admissions@leeds.ac.uk">admissions@leeds.ac.uk</a><br />
+w: <a href="http://www.leeds.ac.uk" target="_blank">www.leeds.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l23">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l23.gif"></td></tr><tr><td><h3>L24 - Leeds Trinity University</h3>Brownberrie Lane<br />
+Horsforth<br />
+Leeds<br />
+LS18 5HD<br />
+t: 0113 283 7150<br />
+f: 0113 283 7200<br />
+e: <a href="mailto:enquiries@leedstrinity.ac.uk">enquiries@leedstrinity.ac.uk</a><br />
+w: <a href="http://www.leedstrinity.ac.uk" target="_blank">www.leedstrinity.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l24">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l24.gif"></td></tr><tr><td><h3>L27 - Leeds Metropolitan University</h3>Course Enquiries Office<br />
+City Campus<br />
+Leeds<br />
+LS1 3HE<br />
+t: 0113 812 3113<br />
+f: 0113 812 3129<br />
+w: <a href="http://www.leedsmet.ac.uk" target="_blank">www.leedsmet.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l27">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l27.gif"></td></tr><tr><td><h3>L28 - Leeds College of Art</h3>Blenheim Walk<br />
+Leeds<br />
+LS2 9AQ<br />
+t: 0113 202 8000<br />
+f: 0113 202 8001<br />
+e: <a href="mailto:info@leeds-art.ac.uk">info@leeds-art.ac.uk</a><br />
+w: <a href="http://www.leeds-art.ac.uk" target="_blank">www.leeds-art.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l28">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l28.gif"></td></tr><tr><td><h3>L30 - Leeds College of Music</h3>3 Quarry Hill<br />
+Leeds<br />
+West Yorkshire<br />
+LS2 7PD<br />
+t: 0113 222 3416<br />
+f: 0113 243 8798<br />
+e: <a href="mailto:enquiries@lcm.ac.uk">enquiries@lcm.ac.uk</a><br />
+w: <a href="http://www.lcm.ac.uk" target="_blank">www.lcm.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l30">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l30.gif"></td></tr><tr><td><h3>L32 - Leeds College of Building</h3>North Street<br />
+Leeds<br />
+LS2 7QT<br />
+t: 0113 222 6002<br />
+f: 0113 222 6001<br />
+e: <a href="mailto:info@lcb.ac.uk">info@lcb.ac.uk</a><br />
+w: <a href="http://www.lcb.ac.uk" target="_blank">www.lcb.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l32">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l32.gif"></td></tr><tr><td><h3>L34 - University of Leicester</h3>University Road<br />
+Leicester<br />
+LE1 7RH<br />
+t: 0116 252 5281<br />
+f: 0116 252 2447<br />
+e: <a href="mailto:admissions@le.ac.uk">admissions@le.ac.uk</a><br />
+w: <a href="http://www.le.ac.uk" target="_blank">www.le.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l34">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l34.gif"></td></tr><tr><td><h3>L36 - Leicester College</h3>Freemen's Park Campus<br />
+Aylestone Road<br />
+Leicester<br />
+LE2 7LW<br />
+t: 0116 224 2240<br />
+f: 0116 224 2041<br />
+e: <a href="mailto:info@leicestercollege.ac.uk">info@leicestercollege.ac.uk</a><br />
+w: <a href="http://www.leicestercollege.ac.uk" target="_blank">www.leicestercollege.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l36">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l36.gif"></td></tr><tr><td><h3>L39 - University of Lincoln</h3>Admissions<br />
+Brayford Pool<br />
+Lincoln<br />
+LN6 7TS<br />
+t: 01522 886097<br />
+f: 01522 886146<br />
+e: <a href="mailto:admissions@lincoln.ac.uk">admissions@lincoln.ac.uk</a><br />
+w: <a href="http://www.lincoln.ac.uk" target="_blank">www.lincoln.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l39">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l39.gif"></td></tr><tr><td><h3>L41 - The University of Liverpool</h3>The Foundation Building<br />
+Brownlow Hill<br />
+Liverpool<br />
+L69 7ZX<br />
+t: 0151 794 6730<br />
+e: <a href="mailto:ugrecruitment@liv.ac.uk">ugrecruitment@liv.ac.uk</a><br />
+w: <a href="http://www.liv.ac.uk" target="_blank">www.liv.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l41">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l41.gif"></td></tr><tr><td><h3>L42 - Lincoln College</h3>Monks Road<br />
+Lincoln<br />
+LN2 5HQ<br />
+t: 01522 876000<br />
+f: 01522 876200<br />
+e: <a href="mailto:enquiries@lincolncollege.ac.uk">enquiries@lincolncollege.ac.uk</a><br />
+w: <a href="http://www.lincolncollege.ac.uk" target="_blank">www.lincolncollege.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l42">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l42.gif"></td></tr><tr><td><h3>L43 - Liverpool Community College</h3>Liverpool Community College<br />
+Clarence Street<br />
+Liverpool<br />
+L3 5TP<br />
+t: 0151 252 3352<br />
+f: 0151 252 3351<br />
+e: <a href="mailto:enquiry@liv-coll.ac.uk">enquiry@liv-coll.ac.uk</a><br />
+w: <a href="http://www.liv-coll.ac.uk" target="_blank">www.liv-coll.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l43">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l43.gif"></td></tr><tr><td><h3>L46 - Liverpool Hope University</h3>Hope Park<br />
+Liverpool<br />
+L16 9JD<br />
+t: 0151 291 3111<br />
+f: 0151 291 3444<br />
+e: <a href="mailto:enquiry@hope.ac.uk">enquiry@hope.ac.uk</a><br />
+w: <a href="http://www.hope.ac.uk" target="_blank">www.hope.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l46">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l46.gif"></td></tr><tr><td><h3>L48 - The Liverpool Institute for Performing Arts</h3>Mount Street<br />
+Liverpool<br />
+L1 9HF<br />
+t: 0151 330 3000<br />
+f: 0151 330 3131<br />
+e: <a href="mailto:admissions@lipa.ac.uk">admissions@lipa.ac.uk</a><br />
+w: <a href="http://www.lipa.ac.uk" target="_blank">www.lipa.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l48">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l48.gif"></td></tr><tr><td><h3>L51 - Liverpool John Moores University</h3>Kingsway House<br />
+Hatton Garden<br />
+Liverpool<br />
+L3 2AJ<br />
+t: 0151 231 5090<br />
+f: 0151 904 6368<br />
+e: <a href="mailto:courses@ljmu.ac.uk">courses@ljmu.ac.uk</a><br />
+w: <a href="http://www.ljmu.ac.uk" target="_blank">www.ljmu.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l51">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l51.gif"></td></tr><tr><td><h3>L53 - Coleg Llandrillo Cymru</h3>Llandudno Road<br />
+Rhos-on-Sea<br />
+Colwyn Bay<br />
+North Wales<br />
+LL28 4HZ<br />
+t: 01492 542338<br />
+f: 01492 543052<br />
+e: <a href="mailto:degrees@gllm.ac.uk">degrees@gllm.ac.uk</a><br />
+w: <a href="http://www.llandrillo.ac.uk" target="_blank">www.llandrillo.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l53">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l53.gif"></td></tr><tr><td><h3>L54 - London Electronics College</h3>LONDON ELECTRONICS COLLEGE<br />
+20 Penywern Road<br />
+Kensington<br />
+LONDON<br />
+SW5 9SU<br />
+t: 020 7373 8721<br />
+f: 020 7244 8733<br />
+e: <a href="mailto:contact@lec.org.uk">contact@lec.org.uk</a><br />
+w: <a href="http://www.lec.org.uk" target="_blank">www.lec.org.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l54">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l54.gif"></td></tr><tr><td><h3>L62 - The London College, UCK</h3>Victoria Gardens<br />
+Notting Hill Gate<br />
+London<br />
+W11 3PE<br />
+t: 020 7243 4000<br />
+f: 020 7243 1484<br />
+e: <a href="mailto:admissions@lcuck.ac.uk">admissions@lcuck.ac.uk</a><br />
+w: <a href="http://www.lcuck.ac.uk" target="_blank">www.lcuck.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l62">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l62.gif"></td></tr><tr><td><h3>L63 - LCA Business School, London</h3>19 Charterhouse Street<br />
+London<br />
+EC1N 6RA<br />
+t: +44 (0)20 7400 6789<br />
+e: <a href="mailto:info@lcabusinessschool.com">info@lcabusinessschool.com</a><br />
+w: <a href="http://www.lcabusinessschool.com" target="_blank">www.lcabusinessschool.com</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l63">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l63.gif"></td></tr><tr><td><h3>L68 - London Metropolitan University</h3>166-220 Holloway Road<br />
+London<br />
+N7 8DB<br />
+t: 020 7133 4200<br />
+e: <a href="mailto:admissions@londonmet.ac.uk">admissions@londonmet.ac.uk</a><br />
+w: <a href="http://www.londonmet.ac.uk" target="_blank">www.londonmet.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l68">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l68.gif"></td></tr><tr><td><h3>L70 - London School of Commerce</h3>Chaucer House<br />
+White Hart Yard<br />
+London<br />
+SE1 1NX<br />
+t: 020 7357 0077<br />
+f: 020 7403 1163<br />
+e: <a href="mailto:info@lsclondon.co.uk">info@lsclondon.co.uk</a><br />
+w: <a href="http://www.lsclondon.co.uk" target="_blank">www.lsclondon.co.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l70">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l70.gif"></td></tr><tr><td><h3>L71 - London School of Science and Technology</h3>1st Floor Alperton House<br />
+Bridgewater Road<br />
+Wembley, Middlesex<br />
+London<br />
+HA0 1EH<br />
+t: 020 8795 3863<br />
+f: 020 8795 3864<br />
+e: <a href="mailto:admissions@lsst.ac">admissions@lsst.ac</a><br />
+w: <a href="http://www.lsst.ac" target="_blank">www.lsst.ac</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l71">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l71.gif"></td></tr><tr><td><h3>L72 - London School of Economics and Political Science (University of London)</h3>Houghton Street<br />
+London<br />
+WC2A 2AE<br />
+t: 020 7955 7125<br />
+f: 020 7955 6001<br />
+e: <a href="mailto:ug-admissions@lse.ac.uk">ug-admissions@lse.ac.uk</a><br />
+w: <a href="http://www.lse.ac.uk" target="_blank">www.lse.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l72">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l72.gif"></td></tr><tr><td><h3>L75 - London South Bank University</h3>Admissions and Recruitment Centre<br />
+90 London Road<br />
+London<br />
+SE1 6LN<br />
+t: 0800 923 8888<br />
+f: 020 7815 8273<br />
+e: <a href="mailto:course.enquiry@lsbu.ac.uk">course.enquiry@lsbu.ac.uk</a><br />
+w: <a href="http://www.lsbu.ac.uk" target="_blank">www.lsbu.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l75">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l75.gif"></td></tr><tr><td><h3>L76 - London School of Marketing</h3>8th Floor, 4 Grosvenor Place<br />
+Hyde Park Corner<br />
+London<br />
+SW1X 7DL<br />
+t: 020 7617 7836<br />
+e: <a href="mailto:s.hoon@lseducationgroup.com">s.hoon@lseducationgroup.com</a><br />
+w: <a href="http://www.londonschoolofmarketing.com" target="_blank">www.londonschoolofmarketing.com</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l76">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l76.gif"></td></tr><tr><td><h3>L77 - Loughborough College</h3>Radmoor Road<br />
+Loughborough<br />
+LE11 3BT<br />
+t: 01509 618375<br />
+f: 01509 618109<br />
+e: <a href="mailto:info@loucoll.ac.uk">info@loucoll.ac.uk</a><br />
+w: <a href="http://www.loucoll.ac.uk" target="_blank">www.loucoll.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l77">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l77.gif"></td></tr><tr><td><h3>L79 - Loughborough University</h3>Rutland Building<br />
+Loughborough University<br />
+Loughborough<br />
+Leicestershire<br />
+LE11 3TU<br />
+t: 01509 223522<br />
+f: 01509 223905<br />
+e: <a href="mailto:admissions@lboro.ac.uk">admissions@lboro.ac.uk</a><br />
+w: <a href="http://www.lboro.ac.uk" target="_blank">www.lboro.ac.uk</a><br /><br />
+<a href="/students/choosingcourses/choosinguni/instguide/l/l79">further details...</a><br />
+</td><td class="shadow"><img class="logo" src="/images/logos/l79.gif"></td></tr>
+</table>
+</div>
+<div id="footer">
+<ul class="outerFirst">
+<li class="first">Help and advice</li>
+<li>
+<ul>
+<li><a href="/students/wheretostart/maturestudents/">Mature students</a></li>
+<li><a href="/international/">International students</a></li>
+<li><a href="/students/wheretostart/disabledstudents">Students with disabilities</a></li>
+<li><a href="/students/wheretostart/careleavers">Care leavers</a></li>
+<li><a href="/astudioynygymraeg/">Astudio yn y Gymraeg</a></li>
+<li><a href="/students/importantdates">Important dates</a></li>
+<li><a href="/events/">Events</a></li>
+</ul>
+</li>
+</ul>
+<ul class="outer">
+<li class="first">&nbsp;&nbsp;Student services</li>
+<li>
+<ul>
+<li>&nbsp;&nbsp;<a href="/yougo/">Student network</a></li>
+<li>&nbsp;&nbsp;<a href="http://www.ucas.tv/">Video guides</a></li>
+<li>&nbsp;&nbsp;<a href="/ucascard/">Student discount card</a></li>
+<li>&nbsp;&nbsp;<a href="/students/coursesearch/">Search for courses</a></li>
+<li>&nbsp;&nbsp;<a href="/students/apply/">Apply</a></li>
+<li>&nbsp;&nbsp;<a href="/students/track/">Track progress</a></li>
+<li>&nbsp;&nbsp;<a href="http://www.ucasbooks.com" target="_blank">Helpful books</a></li>
+</ul>
+</li>
+</ul>
+<ul class="outer">
+<li class="first">&nbsp;&nbsp;Corporate information</li>
+<li>
+<ul>
+<li>&nbsp;&nbsp;<a href="/about_us/contact_us/">Contact us</a></li>
+<li>&nbsp;&nbsp;<a href="/about_us/whoweare/">Who we are</a></li>
+<li>&nbsp;&nbsp;<a href="/about_us/ucasmedia">Advertising enquiries</a></li>
+<li>&nbsp;&nbsp;<a href="/about_us/media_enquiries/">Media enquiries</a></li>
+<li>&nbsp;&nbsp;<a href="/reviews/admissionsprocessreview/">Admissions Process Review</a></li>
+<li>&nbsp;&nbsp;<a href="/reviews/qireview/">Qualifications Information Review</a></li>
+<li>&nbsp;&nbsp;<a href="/about_us/foi/">Freedom of Information</a></li>
+</ul>
+</li>
+</ul>
+<ul class="outer">
+<li class="first">&nbsp;&nbsp;About this site</li>
+<li>
+<ul>
+<li>&nbsp;&nbsp;<a href="/sitemap">Site map</a></li>
+<li>&nbsp;&nbsp;<a href="/faqmap">FAQ map</a></li>
+<li>&nbsp;&nbsp;<a href="/terms_and_conditions">Terms and conditions</a></li>
+<li>&nbsp;&nbsp;<a href="/privacy_statement">Privacy policy</a></li>
+<li>&nbsp;&nbsp;<a href="/about_us/cookies">Cookies</a></li>
+<li>&nbsp;&nbsp;<a href="/accessibility">Accessibility</a></li>
+<li>&nbsp;&nbsp;<a href="http://mob.ucas.com">Mobile UCAS website</a></li>
+</ul>
+</li>
+</ul>
+<div id="copy"> <span class="floatLeft">&copy; UCAS, Rosehill, New Barn Lane, Cheltenham, Gloucestershire, GL52 3LZ. <a href="/company_registration">Company Registration</a> 2839815</span>
+<div id="search" class="floatRight">
+<form action="http://www.google.com/cse" id="cse-search-box">
+<input type="hidden" name="cx" value="003105448143280729144:gt1lj8lnvbo" />
+<input type="text" name="q" />
+<input type="image" src="/images/goBtnGrey.gif" class="goBtn" align="top" title="Go" alt="Go, start search" />
+</form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type='text/javascript' src='http://www.ucas.com/javascript/synthetix_autosuggest_ucas.js'>
+</script>
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName('script')[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/1721.js";
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("\<script src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'>\<\/script>" ));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4165754-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+</html>
